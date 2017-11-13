@@ -1,10 +1,6 @@
-
-bitblisscoin development tree
-
-bitblisscoin is a PoS + PoW based cryptocurrency.
-
-Blockchain details
+BitBlissCoin 
 ===========================
+BitBlissCoin (BIBC) is a PoS + PoW based altcoin.
 
 **Algorithm**	Scrypt  
 **Type**	PoW/PoS  
